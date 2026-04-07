@@ -37,5 +37,6 @@ Each solution is written with a focus on:
                                Palindrome Number Question 9
                                Search Insert Position Question 35
                                Add Binary Question 67
+                               Reverse Integer Question 7 
                    🟡 Medium :-
                    🔴 Hard :- 
