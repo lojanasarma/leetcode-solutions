@@ -1,4 +1,4 @@
-#🚀 LeetCode Solutions
+# 🚀 LeetCode Solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-Practice-blue?style=for-the-badge"/>
