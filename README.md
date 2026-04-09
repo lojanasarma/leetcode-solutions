@@ -8,47 +8,58 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+in+Java;LeetCode+Journey;Lojana+Sarma&center=true&width=500&height=50">
-  <img align="right" width="350" src="https://camo.githubusercontent.com/1d307089343851190bbeb0c4c850492fc6cfe9aa04d0423e5844702f92165b16/68747470733a2f2f61737465722e636c6f75642f77702d636f6e74656e742f75706c6f6164732f323032322f31312f636f6d70696c696e672d636f64652e676966">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+in+Java;LeetCode+Journey;Consistent+Practice&center=true&width=500&height=50">
 </p>
 
+---
 
-📌 About This Repository
+## 📌 About This Repository
 
-This is a personal LeetCode practice repository dedicated to improving problem-solving skills in Data Structures and Algorithms (DSA).
+This repository is a personal space for practicing Data Structures & Algorithms (DSA) using LeetCode problems.
 
-It focuses on consistent daily practice to build strong fundamentals, improve coding efficiency, and prepare for technical interviews.
+Focus areas:
+- 🧠 Problem understanding
+- ⚡ Optimal time & space complexity
+- 🛠️ Clean and readable code
+- 📈 Continuous improvement
 
-Each solution is written with a focus on:
-🧠 Deep understanding of the problem
-⚡ Optimal time and space complexity
-🛠️ Clean and readable code
-📈 Continuous learning and improvement
+---
 
-🎯 Purpose
-💡 Strengthen core DSA concepts
-🧩 Improve problem-solving ability
-🏆 Prepare for technical interviews
-🔁 Build consistency through daily practice
-📚 Develop strong algorithmic thinking
+## 🎯 Purpose
 
-📂 Topics Covered
-✔️ Arrays
-✔️ Strings
-✔️ Linked Lists
-✔️ Trees & Graphs
-✔️ Dynamic Programming
-✔️ Recursion & Backtracking
-✔️ Greedy Algorithms
-✔️ Stack & Queue
+- 💡 Strengthen DSA concepts  
+- 🧩 Improve problem-solving skills  
+- 🏆 Prepare for technical interviews  
+- 🔁 Build consistency  
+- 📚 Develop algorithmic thinking  
 
-📊 Progress Tracker
-   📌 Difficulty  🟢Easy 
-                     Solved :- Two Sum 0uestion 1
-                               Palindrome Number Question 9
-                               Search Insert Position Question 35
-                               Add Binary Question 67
-                               Valid Palindrome Question 125
-                               Valid Parentheses Question 20
-                   🟡 Medium :- Reverse Integer Question 7
-                   🔴 Hard :- 
+---
+
+## 📂 Topics Covered
+
+- Arrays  
+- Strings  
+- Linked Lists  
+- Trees & Graphs  
+- Dynamic Programming  
+- Recursion & Backtracking  
+- Greedy Algorithms  
+- Stack & Queue  
+
+---
+
+## 📊 Progress Tracker
+
+### 🟢 Easy
+- Two Sum (#1)  
+- Palindrome Number (#9)  
+- Search Insert Position (#35)  
+- Add Binary (#67)  
+- Valid Palindrome (#125)  
+- Valid Parentheses (#20)  
+
+### 🟡 Medium
+- Reverse Integer (#7)  
+
+### 🔴 Hard
+- Coming soon...
