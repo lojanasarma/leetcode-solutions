@@ -42,5 +42,6 @@ Each solution is written with a focus on:
                                Search Insert Position Question 35
                                Add Binary Question 67
                                Valid Palindrome Question 125
+                               Valid Parentheses Question 20
                    🟡 Medium :- Reverse Integer Question 7
                    🔴 Hard :- 
