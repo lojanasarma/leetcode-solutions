@@ -57,7 +57,8 @@ Focus areas:
 - Search Insert Position (#35)  
 - Add Binary (#67)  
 - Valid Palindrome (#125)  
-- Valid Parentheses (#20)  
+- Valid Parentheses (#20)
+- Sqrt(x) (#69)  
 
 ### 🟡 Medium
 - Reverse Integer (#7)  
