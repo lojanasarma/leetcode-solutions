@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+in+Java;LeetCode+Journey;Consistent+Practice&center=true&width=500&height=50" />
 
-  <img src="https://progress-bar.dev/10/?scale=100&title=DSA%20Journey&width=500&color=00c853&suffix=%25" />
+  <img src="https://progress-bar.dev/10/?scale=100&title=Progress&width=500&color=ff4da6&suffix=%25" />
   
   <img align="right" width="350" src="https://camo.githubusercontent.com/1d307089343851190bbeb0c4c850492fc6cfe9aa04d0423e5844702f92165b16/68747470733a2f2f61737465722e636c6f75642f77702d636f6e74656e742f75706c6f6164732f323032322f31312f636f6d70696c696e672d636f64652e676966" />
 </p>
