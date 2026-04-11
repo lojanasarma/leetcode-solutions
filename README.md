@@ -58,7 +58,8 @@ Focus areas:
 - Add Binary (#67)  
 - Valid Palindrome (#125)  
 - Valid Parentheses (#20)
-- Sqrt(x) (#69)  
+- Sqrt(x) (#69)
+- Binary Tree Inorder Traversal (#94)  
 
 ### 🟡 Medium
 - Reverse Integer (#7)  
