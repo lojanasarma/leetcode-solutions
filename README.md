@@ -67,7 +67,7 @@ Focus areas:
 
 ### 🟡 Medium
 - Reverse Integer (#7)
-- Single Number (#137)  
+- Single Number II (#137)  
 
 ### 🔴 Hard
 - Coming soon...
