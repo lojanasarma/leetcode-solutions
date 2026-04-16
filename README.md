@@ -10,68 +10,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+in+Java;LeetCode+Journey;Consistent+Practice&center=true&width=500&height=50" />
 
-  <svg width="140" height="140" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="glassGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#00c6ff" stop-opacity="0.9"/>
-        <stop offset="100%" stop-color="#7b2ff7" stop-opacity="0.9"/>
-      </linearGradient>
-      <filter id="softGlow">
-        <feGaussianBlur stdDeviation="3" result="blur"/>
-        <feMerge>
-          <feMergeNode in="blur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-      <filter id="glassBlur">
-        <feGaussianBlur stdDeviation="6"/>
-      </filter>
-    </defs>
-    <circle cx="60" cy="60" r="50"
-            fill="rgba(255,255,255,0.05)"
-            stroke="rgba(255,255,255,0.15)"
-            stroke-width="2"
-            filter="url(#glassBlur)"/>
-   <circle cx="60" cy="60" r="42"
-            fill="rgba(255,255,255,0.03)"/>
- <circle cx="60" cy="60" r="40"
-            stroke="rgba(255,255,255,0.1)"
-            stroke-width="8"
-            fill="none"/>
-   <circle cx="60" cy="60" r="40"
-            stroke="url(#glassGrad)"
-            stroke-width="8"
-            fill="none"
-            stroke-linecap="round"
-            stroke-dasharray="251"
-            stroke-dashoffset="216"
-            transform="rotate(-90 60 60)"
-            filter="url(#softGlow)">
-      <animate attributeName="opacity"
-               values="0.7;1;0.7"
-               dur="2s"
-               repeatCount="indefinite"/>
-    </circle>
-    <circle cx="60" cy="60" r="40"
-            stroke="rgba(255,255,255,0.25)"
-            stroke-width="2"
-            fill="none"
-            stroke-dasharray="60 260"
-            transform="rotate(-45 60 60)">
-      <animateTransform attributeName="transform"
-                        type="rotate"
-                        from="0 60 60"
-                        to="360 60 60"
-                        dur="3s"
-                        repeatCount="indefinite"/>
-    </circle>
-    <text x="60" y="66" text-anchor="middle"
-          font-size="16"
-          fill="rgba(255,255,255,0.9)"
-          font-family="sans-serif">
-      14%
-    </text>
-  </svg>
+  <img width="140" height="140" alt="image" src="https://github.com/user-attachments/assets/512280d5-5e36-4cd6-b69a-552ee6dac88b" />
+
 
   <img align="right" width="350" src="https://camo.githubusercontent.com/1d307089343851190bbeb0c4c850492fc6cfe9aa04d0423e5844702f92165b16/68747470733a2f2f61737465722e636c6f75642f77702d636f6e74656e742f75706c6f6164732f323032322f31312f636f6d70696c696e672d636f64652e676966" />
 </p>
