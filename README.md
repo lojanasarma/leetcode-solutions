@@ -6,12 +6,13 @@
   <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/LeetCode-Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </p>
-
+<img 
+  src="https://github.com/user-attachments/assets/512280d5-5e36-4cd6-b69a-552ee6dac88b"
+  alt="image"
+  style="float: left; width: 180px; height: auto; margin-left: 15px;"
+>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+in+Java;LeetCode+Journey;Consistent+Practice&center=true&width=500&height=50" />
-
-  <img width="140" height="140" alt="image" src="https://github.com/user-attachments/assets/512280d5-5e36-4cd6-b69a-552ee6dac88b" />
-
 
   <img align="right" width="350" src="https://camo.githubusercontent.com/1d307089343851190bbeb0c4c850492fc6cfe9aa04d0423e5844702f92165b16/68747470733a2f2f61737465722e636c6f75642f77702d636f6e74656e742f75706c6f6164732f323032322f31312f636f6d70696c696e672d636f64652e676966" />
 </p>
@@ -74,4 +75,4 @@ Focus areas:
 - Single Number II (#137)  
 
 ### 🔴 Hard
-- Coming soon...
+- Coming soon... 
