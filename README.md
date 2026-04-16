@@ -51,13 +51,7 @@ Focus areas:
 ---
 
 ## 📊 Progress Tracker
-<p align="right">
-<img 
-  src="https://github.com/user-attachments/assets/512280d5-5e36-4cd6-b69a-552ee6dac88b"
-  alt="image"
-  style="float: right; width: 180px; height: auto; margin-left: 15px;"
->
-</p>
+
 ### 🟢 Easy
 - Two Sum (#1)  
 - Palindrome Number (#9)  
@@ -77,4 +71,11 @@ Focus areas:
 - Single Number II (#137)  
 
 ### 🔴 Hard
-- Coming soon... 
+- Coming soon...
+<p align="right">
+<img 
+  src="https://github.com/user-attachments/assets/512280d5-5e36-4cd6-b69a-552ee6dac88b"
+  alt="image"
+  style="float: right; width: 180px; height: auto; margin-left: 15px;"
+>
+</p>
