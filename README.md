@@ -6,11 +6,7 @@
   <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/LeetCode-Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </p>
-<img 
-  src="https://github.com/user-attachments/assets/512280d5-5e36-4cd6-b69a-552ee6dac88b"
-  alt="image"
-  style="float: left; width: 100px; height: auto; margin-left: 15px;"
->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+in+Java;LeetCode+Journey;Consistent+Practice&center=true&width=500&height=50" />
 
@@ -55,7 +51,13 @@ Focus areas:
 ---
 
 ## 📊 Progress Tracker
-
+<p align="right">
+<img 
+  src="https://github.com/user-attachments/assets/512280d5-5e36-4cd6-b69a-552ee6dac88b"
+  alt="image"
+  style="float: right; width: 180px; height: auto; margin-left: 15px;"
+>
+</p>
 ### 🟢 Easy
 - Two Sum (#1)  
 - Palindrome Number (#9)  
