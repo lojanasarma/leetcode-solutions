@@ -9,7 +9,7 @@
 <img 
   src="https://github.com/user-attachments/assets/512280d5-5e36-4cd6-b69a-552ee6dac88b"
   alt="image"
-  style="float: left; width: 180px; height: auto; margin-left: 15px;"
+  style="float: left; width: 18px; height: auto; margin-left: 15px;"
 >
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+in+Java;LeetCode+Journey;Consistent+Practice&center=true&width=500&height=50" />
