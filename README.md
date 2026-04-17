@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+in+Java;LeetCode+Journey;Consistent+Practice&center=true&width=500&height=50" />
-
+![Progress](https://img.shields.io/badge/Progress-15%25-blue)
   <img align="right" width="350" src="https://camo.githubusercontent.com/1d307089343851190bbeb0c4c850492fc6cfe9aa04d0423e5844702f92165b16/68747470733a2f2f61737465722e636c6f75642f77702d636f6e74656e742f75706c6f6164732f323032322f31312f636f6d70696c696e672d636f64652e676966" />
 </p>
 
@@ -73,10 +73,3 @@ Focus areas:
 
 ### 🔴 Hard
 - Coming soon...
-<p align="right">
-<img 
-  src="https://github.com/user-attachments/assets/512280d5-5e36-4cd6-b69a-552ee6dac88b"
-  alt="image"
-  style="float: right; width: 15%; height: auto; margin-left: 15px;"
->
-</p>
