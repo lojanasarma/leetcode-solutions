@@ -77,6 +77,6 @@ Focus areas:
 <img 
   src="https://github.com/user-attachments/assets/512280d5-5e36-4cd6-b69a-552ee6dac88b"
   alt="image"
-  style="float: right; width: 180px; height: auto; margin-left: 15px;"
+  style="float: right; width: 15%; height: auto; margin-left: 15px;"
 >
 </p>
