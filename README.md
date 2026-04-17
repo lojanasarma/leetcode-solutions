@@ -64,7 +64,8 @@ Focus areas:
 - Plus One (#66)  
 - Is power of Two (#231)  
 - Single Number (#136)  
-- Is power of four (#342)  
+- Is power of four (#342)
+- To Lower Case (#709)  
 
 ### 🟡 Medium
 - Reverse Integer (#7)  
