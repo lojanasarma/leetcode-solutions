@@ -71,7 +71,8 @@ Focus areas:
 
 ### 🟡 Medium
 - Reverse Integer (#7)  
-- Single Number II (#137)  
+- Single Number II (#137)
+- Power(x,n) (#50)  
 
 ### 🔴 Hard
 - Coming soon...
