@@ -67,7 +67,8 @@ Focus areas:
 - Single Number (#136)  
 - Is power of Four (#342)
 - To Lower Case (#709)
-- Is power of Three (#326) 
+- Is power of Three (#326)
+- Three Consecutive Odds (#1550)
 
 ### 🟡 Medium
 - Reverse Integer (#7)  
