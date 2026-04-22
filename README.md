@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/LeetCode-Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   
-  <p align="right">Completed: 19 questions</p>
+  <p align="right">Completed: 20 questions</p>
   
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+in+Java;LeetCode+Journey;Consistent+Practice&center=true&width=500&height=50" />
@@ -70,6 +70,7 @@ Focus areas:
 - Is power of Three (#326)
 - Three Consecutive Odds (#1550)
 - Valid Perfect Square (#367)
+- Fibonacci Number (#509)
 
 ### 🟡 Medium
 - Reverse Integer (#7)  
