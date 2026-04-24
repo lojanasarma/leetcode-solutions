@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/LeetCode-Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   
-  <p align="right">Completed: 21 questions</p>
+  <p align="right">Completed: 22 questions</p>
   
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+in+Java;LeetCode+Journey;Consistent+Practice&center=true&width=500&height=50" />
@@ -72,6 +72,7 @@ Focus areas:
 - Valid Perfect Square (#367)
 - Fibonacci Number (#509)
 - Maximum Depth of Binary Tree (#104)
+- Minimum Depth of Binary Tree (#111)
 
 ### 🟡 Medium
 - Reverse Integer (#7)  
