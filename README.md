@@ -80,4 +80,4 @@ Focus areas:
 - Power(x,n) (#50)  
 
 ### 🔴 Hard
-- Coming soon...
+- First Missing Positive (#41)
