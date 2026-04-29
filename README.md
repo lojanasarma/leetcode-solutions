@@ -73,6 +73,7 @@ Focus areas:
 - Fibonacci Number (#509)
 - Maximum Depth of Binary Tree (#104)
 - Minimum Depth of Binary Tree (#111)
+- Contains Duplicate (#217)
 
 ### 🟡 Medium
 - Reverse Integer (#7)  
