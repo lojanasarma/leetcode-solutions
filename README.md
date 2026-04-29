@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/LeetCode-Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   
-  <p align="right">Completed: 23 questions</p>
+  <p align="right">Completed: 24 questions</p>
   
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+in+Java;LeetCode+Journey;Consistent+Practice&center=true&width=500&height=50" />
